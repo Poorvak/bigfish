@@ -37,7 +37,7 @@ rq==0.10.0
 six==1.11.0
 typing==3.6.4
 Unidecode==0.4.21
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.2.0
 virtualenv-clone==0.3.0
 wagtail==2.0
