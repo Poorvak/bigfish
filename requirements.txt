@@ -6,7 +6,7 @@ cffi==1.11.5
 chardet==3.0.4
 click==6.7
 cryptography==2.2.1
-Django==1.11.11
+Django==2.2.24
 django-constance==2.1.0
 django-extensions==2.0.6
 django-grappelli==2.11.1
